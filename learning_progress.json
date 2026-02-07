@@ -1,0 +1,33 @@
+{
+  "profile": {
+    "name": "Kishor",
+    "skills": [
+      "C++",
+      "ML Basics",
+      "Maths",
+      "Statistics",
+      "SQL"
+    ],
+    "goal": "GenAI Engineer",
+    "level": "Advanced",
+    "progress": 89
+  },
+  "roadmap": [
+    "\ud83d\udcda Complete Python",
+    "\ud83d\udcda Complete Prompt Engineering",
+    "\ud83d\udcda Complete LLM APIs",
+    "\ud83d\udcda Complete Vector Databases",
+    "\ud83c\udfc6 Master advanced topics",
+    "\ud83d\udd2c Lead research projects",
+    "\ud83d\udc68\u200d\ud83c\udfeb Mentor and teach others",
+    "\ud83c\udf93 Master OpenAI/Claude APIs",
+    "\ud83c\udf93 Build vector database systems",
+    "\ud83c\udf93 Implement prompt engineering",
+    "\u26a1 MLOps",
+    "\u26a1 Evaluation",
+    "\ud83d\udee0\ufe0f Build LLM application",
+    "\ud83d\udd17 Create RAG system",
+    "\ud83d\udcca Deploy production model"
+  ],
+  "saved_at": "2026-02-07T15:47:16.559901+00:00"
+}
